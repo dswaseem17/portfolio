@@ -1,4 +1,3 @@
-# Portfolio
 ## Education
 
 ## Work Experience
